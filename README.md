@@ -3,7 +3,7 @@
 
 <img src="https://github.com/juebenjamin/Twenty-Four/blob/main/static/TwentyFour.gif">
 
-This is a C program for a game called TwentyFour. The program generates 4 random numbers and prompts the user to enter three operators to be used to evaluate the expression ((a op1 b) op2 c) op3 d, where a, b, c, d are the four generated numbers and op1, op2, op3 are the operators entered by the user. The program then uses the compute function to perform the operations and evaluates the expression. If the result is equal to 24, the user wins; otherwise, the user loses.
+This is a C program for a game called TwentyFour. The program generates 4 random numbers and prompts the user to enter three operators to be used to evaluate the expression <pre>((a op1 b) op2 c) op3 d</pre>, where a, b, c, d are the four generated numbers and op1, op2, op3 are the operators entered by the user. The program then uses the compute function to perform the operations and evaluates the expression. If the result is equal to 24, the user wins; otherwise, the user loses.
 
 The program provides two optional arguments:
 
