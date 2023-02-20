@@ -1,6 +1,6 @@
 # Twenty-Four
 
-![](https://user-images.githubusercontent.com/47327357/219986631-dfca3d9f-8b35-42dd-ac1c-ed4ec9e5b803.gif =250x250)
+<img src="https://github.com/juebenjamin/Twenty-Four/blob/main/TwentyFour.gif" width="200">
 
 
 This is a C program for a game called TwentyFour.
