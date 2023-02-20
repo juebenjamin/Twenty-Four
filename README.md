@@ -1,6 +1,6 @@
 # Twenty-Four
 
-![TwentyFour_](https://user-images.githubusercontent.com/47327357/219986631-dfca3d9f-8b35-42dd-ac1c-ed4ec9e5b803.gif)
+![](https://user-images.githubusercontent.com/47327357/219986631-dfca3d9f-8b35-42dd-ac1c-ed4ec9e5b803.gif)
 
 
 This is a C program for a game called TwentyFour.
