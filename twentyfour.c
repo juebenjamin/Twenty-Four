@@ -1,9 +1,3 @@
-/*-------------------------------------------
-Program 1: TwentyFour
-Course: CS 211, Spring 2023, UIC
-System: Visual Studio Code on Mac
-Author: Jeremiah Benjamin
-------------------------------------------- */
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>
