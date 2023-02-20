@@ -1,4 +1,5 @@
 # Twenty-Four
+<pre>
 
 <img src="https://github.com/juebenjamin/Twenty-Four/blob/main/static/TwentyFour.gif">
 
@@ -17,3 +18,4 @@ debugMode function: takes an array of solutions and a boolean flag indicating wh
 assess function: takes in 4 numbers (a, b, c, d) and 3 operators (op1, op2, op3) and evaluates the expression ((a op1 b) op2 c) op3 d. The function uses the compute function to perform the operations and returns true if the result is equal to 24, and false otherwise.
 play_game function: implements the game of TwentyFour by generating 4 random numbers and prompting the user to enter 3 operators. The function then calls the assess function to evaluate the result of the computation. If the result is equal to 24, the user wins, otherwise the user loses. The function then asks the user if they want to play again and continues until the user decides to stop.
 main function: is the entry point of the program. It processes the optional arguments and calls the play_game function with the easyBool and debugBool variables as the argument.
+</pre>
